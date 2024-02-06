@@ -1,1 +1,0 @@
-# MinorProject_ExpensesManagerApp
